@@ -1,0 +1,14 @@
+C:\Projetos\entrevista-osas\bin\Debug\net8.0\entrevista-osas.exe
+C:\Projetos\entrevista-osas\bin\Debug\net8.0\entrevista-osas.deps.json
+C:\Projetos\entrevista-osas\bin\Debug\net8.0\entrevista-osas.runtimeconfig.json
+C:\Projetos\entrevista-osas\bin\Debug\net8.0\entrevista-osas.dll
+C:\Projetos\entrevista-osas\bin\Debug\net8.0\entrevista-osas.pdb
+C:\Projetos\entrevista-osas\obj\Debug\net8.0\entrevista-osas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\entrevista-osas\obj\Debug\net8.0\entrevista-osas.AssemblyInfoInputs.cache
+C:\Projetos\entrevista-osas\obj\Debug\net8.0\entrevista-osas.AssemblyInfo.cs
+C:\Projetos\entrevista-osas\obj\Debug\net8.0\entrevista-osas.csproj.CoreCompileInputs.cache
+C:\Projetos\entrevista-osas\obj\Debug\net8.0\entrevista-osas.dll
+C:\Projetos\entrevista-osas\obj\Debug\net8.0\refint\entrevista-osas.dll
+C:\Projetos\entrevista-osas\obj\Debug\net8.0\entrevista-osas.pdb
+C:\Projetos\entrevista-osas\obj\Debug\net8.0\entrevista-osas.genruntimeconfig.cache
+C:\Projetos\entrevista-osas\obj\Debug\net8.0\ref\entrevista-osas.dll
